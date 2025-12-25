@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**dyahayuwijayanti/dyahayuwijayanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering Physics graduate who is currently learning Python,
+data analysis, and machine learning.
 
-Here are some ideas to get you started:
+### 🔧 Interests
+- Data analysis & visualization
+- Machine learning fundamentals
+- Engineering problem-solving
+- R&D and quality-related analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Currently learning
+- Git & GitHub
+- Python basics
+- Pandas & matplotlib
+- Data analysis workflows
+
+### 📂 Featured repository
+- learning-github — my learning journey in GitHub, Python, and data analysis
+
+### 📍 Location
+Indonesia 🇮🇩
+
+## 🔭 Currently Working On
+Learning Python and GitHub by building small projects.
+
+## ⚡ Fun Fact
+This is my first time using GitHub seriously.
+
