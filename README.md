@@ -22,7 +22,7 @@ data analysis, and machine learning.
 Indonesia 🇮🇩
 
 ## 🔭 Currently Working On
-Learning Python and GitHub by building small projects.
+Building my GitHub portfolio and improving data analysis skills.
 
 ## ⚡ Fun Fact
 This is my first time using GitHub seriously.
